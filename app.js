@@ -4,7 +4,7 @@ const item = require("./routes/Item");
 const order = require("./routes/Order");
 const orderDetails = require("./routes/OrderDetails");
 const app = express();
-const port = 5600;
+const port = 5002;
 
 app.use(express.json());
 
